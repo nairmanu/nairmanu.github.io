@@ -3,7 +3,7 @@ var weatherApp = angular.module('weatherApp', ['ngRoute','ngResource']);
 
 //CONSTANTS
 angular.module('weatherApp')
- .constant('REST_END_POINT', 'http://api.openweathermap.org/data/2.5/forecast?');
+ .constant('REST_END_POINT', 'https://api.openweathermap.org/data/2.5/forecast?');
 angular.module('weatherApp')
  .constant('API_KEY', 'APPID=e65c444451bfd3b26ef7982251e0181b');
 
