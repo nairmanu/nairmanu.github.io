@@ -1,0 +1,31 @@
+<html ng-app="weatherApp">
+    <head>
+        <title>AngularJS Weather APP</title>
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#/formPage">AngularJS WeatherApp</a>
+                    </div>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#/formPage"><i class="fa fa-home"></i>Home</a></li>
+                        <li><a href="#/forecastPage"><i></i>Forecast</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            <div ng-view></div>
+        </div>
+        <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+        <script src="scripts/bootstrap.min.js"></script>
+        <script src="scripts/angular.min.js"></script>
+        <script src="scripts/angular-route.min.js"></script>
+        <script src="scripts/angular-resource.min.js"></script>
+        <script src="App.js"></script>
+    </body>
+</html>

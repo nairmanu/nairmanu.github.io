@@ -1,0 +1,20 @@
+<div>
+    <H1>FORECAST INFORMATION</H1>
+    <H3>Your city: {{forecast.city.name}}, {{forecast.city.country}}</H3>
+    <table class="table table-hover">
+        <thead>
+            <th>Date</th>
+            <th>Temperature (in K)</th>
+            <th>Humidity</th>
+            <th>Min Temp</th>
+            <th>Max Temp</th>
+        </thead>
+        <tbody ng-repeat="item in forecast.list">
+            <td>{{item.dt_txt}}</td>
+            <td>{{item.main.temp}}</td>
+            <td>{{item.main.humidity}}</td>
+            <td>{{item.main.temp_min}}</td>
+            <td>{{item.main.temp_max}}</td>
+        </tbody>
+    </table>
+</div>
