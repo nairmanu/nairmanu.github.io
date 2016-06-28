@@ -1,4 +1,6 @@
 a[href], a[data-href] {
-    cursor: pointer;
+    cursor: pointer;   
+}
+a:hover { 
     text-decoration: underline;
 }
