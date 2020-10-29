@@ -1,0 +1,12 @@
+.project-list-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.project-list-header {
+  color: #323130;
+  font-size: 2em;
+  align-self: center;
+}

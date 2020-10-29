@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Microsoft Trove",
+    "images": ["/images/trove-0.jpeg", "/images/trove-1.jpeg"],
+    "description": "I'm currently part of a small incubation team within the Office of the CTO at Microsoft, helping build an equitable and transparent marketplaces where you can contribute to advancing AI/ML projects with your data, content, and expertise and get compensated. \nI'm a full stack developer in the team working on technologies like React JS, .NET WebAPIs and React Native.",
+    "technologies": ["React", ".NET", "ReactNative"]
+  },
+  {
+    "id": 2,
+    "title": "Enterprise Customer Manager Portal",
+    "images": ["/images/kroger-0.png"],
+    "description": "I led a team of 7 frontend engineers to create a new customer manager portal to be used by Kroger's call center executives to look up customer infromation. It acts as a one stop solution for call center exectives to retrieve all the relevant information required by them to address any questions or concerns raised by customers.",
+    "technologies": ["Angular", "Java"]
+  }
+]
