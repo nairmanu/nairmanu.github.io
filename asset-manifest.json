@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd269651.chunk.css",
+    "main.js": "/static/js/main.eacdf2f7.chunk.js",
+    "main.js.map": "/static/js/main.eacdf2f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ead77c2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ead77c2e.js.map",
+    "static/js/2.df24cf90.chunk.js": "/static/js/2.df24cf90.chunk.js",
+    "static/js/2.df24cf90.chunk.js.map": "/static/js/2.df24cf90.chunk.js.map",
+    "static/js/3.5fbb76d0.chunk.js": "/static/js/3.5fbb76d0.chunk.js",
+    "static/js/3.5fbb76d0.chunk.js.map": "/static/js/3.5fbb76d0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bd269651.chunk.css.map": "/static/css/main.bd269651.chunk.css.map",
+    "static/js/2.df24cf90.chunk.js.LICENSE.txt": "/static/js/2.df24cf90.chunk.js.LICENSE.txt",
+    "static/media/angular.1fd4bbed.svg": "/static/media/angular.1fd4bbed.svg",
+    "static/media/dotnet.b4a1f214.svg": "/static/media/dotnet.b4a1f214.svg",
+    "static/media/Header.css": "/static/media/hero-image.9e231d95.jpg",
+    "static/media/java.cd9a7278.svg": "/static/media/java.cd9a7278.svg",
+    "static/media/manu.d3da5c45.jpg": "/static/media/manu.d3da5c45.jpg",
+    "static/media/react-native.3adc4d15.svg": "/static/media/react-native.3adc4d15.svg",
+    "static/media/react.3adc4d15.svg": "/static/media/react.3adc4d15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead77c2e.js",
+    "static/js/2.df24cf90.chunk.js",
+    "static/css/main.bd269651.chunk.css",
+    "static/js/main.eacdf2f7.chunk.js"
+  ]
+}
