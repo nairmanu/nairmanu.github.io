@@ -37,3 +37,17 @@
 .tech-list {
   display: flex;
 }
+
+@media (max-width: 600px) {
+  .project-image-description {
+    flex-direction: column;
+  }
+  
+  .project-image-container {
+    width: 100%;
+  }
+
+  .project-description-technology {
+    max-width: 100%;
+  }
+}
